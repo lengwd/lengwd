@@ -59,3 +59,20 @@
     </tr>
   </table>
 </div>
+
+<br>
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lengwd&layout=compact&theme=midnight&hide_border=true" alt="Top Langs" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=lengwd&show_icons=true&theme=midnight&hide_border=true" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
