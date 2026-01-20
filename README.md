@@ -86,6 +86,9 @@
 </div>
 
 <br>
+<div align="center">
+  <img src="https://github.com/lengwd/lengwd/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,100:0015ff&height=100&section=footer" width="100%" alt="Footer" />
