@@ -87,7 +87,7 @@
 
 <br>
 <div align="center">
-  <img src="https://github.com/lengwd/lengwd/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github.com/lengwd/lengwd/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 <div align="center">
