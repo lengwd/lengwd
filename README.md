@@ -30,29 +30,29 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="100%">
+      <td align="center" width="33%" valign="top">
         <strong>Languages</strong><br><br>
         <img src="https://skillicons.dev/icons?i=py" alt="Languages">
       </td>
-      <td align="center" width="100%">
+      <td align="center" width="33%" valign="top">
         <strong>Frontend</strong><br><br>
         <img src="https://skillicons.dev/icons?i=react" alt="Frontend">
       </td>
-      <td align="center" width="100%">
+      <td align="center" width="33%" valign="top">
         <strong>Backend & Tools</strong><br><br>
         <img src="https://skillicons.dev/icons?i=docker,git" alt="Backend">
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" width="33%" valign="top">
         <strong>AI & ML</strong><br><br>
         <img src="https://skillicons.dev/icons?i=pytorch,gcp" alt="AI & ML">
       </td>
-      <td align="center">
+      <td align="center" width="33%" valign="top">
         <strong>Cloud & Deployment</strong><br><br>
         <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloud">
       </td>
-      <td align="center">
+      <td align="center" width="33%" valign="top">
         <strong>Tools & Productivity</strong><br><br>
         <img src="https://skillicons.dev/icons?i=latex,vscode" alt="Tools">
       </td>
