@@ -14,4 +14,16 @@
 
 <img src="https://komarev.com/ghpvc/?username=lengwd&style=for-the-badge&label=PROFILE+VIEWS&color=007ec6" alt="Profile Views" />
 
+<br>
+
+<tab width="100%">
+    <tr>
+        <td>
+            <h3>🚀 My Goals for 2026</h3>
+            <ul>
+                <li>Loss weight</li>
+            </ul>
+        </td>
+    </tr>
+</tab>
 </div>
