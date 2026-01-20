@@ -25,5 +25,44 @@
 <li>Loss weight</li>
 </ul>
 
+<br>
 
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <th>Frontend</th>
+    <th>Backend & Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    </td>
+  </tr>
+  <tr>
+    <th>AI & ML</th>
+    <th>Cloud & Deployment</th>
+    <th>Tools & Productivity</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+    </td>
+  </tr>
 </table>
