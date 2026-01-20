@@ -1,16 +1,15 @@
 <div align="center">
-  <h1 style="font-size: 3em; font-weight: bold; margin-bottom: 20px;">
-    Wenda Leng
-  </h1>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/-AI%20Enthusiast-blue?style=flat-square&logo=openai&logoColor=white" alt="AI Enthusiast">
-    &nbsp;&nbsp;|&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Future%20Practitioner-blueviolet?style=flat-square" alt="Future Practitioner">
-    &nbsp;&nbsp;|&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-On%20the%20way-ff69b4?style=flat-square" alt="On the way">
-  </p>
-  
-  <br>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,100:0015ff&height=300&section=header&text=Wenda%20Leng&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20%7C%20Future%20Practitioner%20%7C%20On%20the%20way&descSize=25&descAlignY=60&descAlign=50)
+
+<p>
+  <a href="https://github.com/lengwd">
+    <img src="https://img.shields.io/badge/GITHUB-Profile-black?style=for-the-badge&logo=github" alt="github">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:2301212964@stu.pku.edu.cn">
+    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-00c6ff?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
+  </a>
+</p>
+
 </div>
