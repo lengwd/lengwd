@@ -60,9 +60,8 @@
   </table>
 </div>
 
+
 <br>
-
-
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
@@ -70,11 +69,24 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lengwd&layout=compact&theme=midnight&hide_border=true" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lengwd&layout=compact&theme=midnight&hide_border=true" alt="Top Langs" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lengwd&show_icons=true&theme=midnight&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=lengwd&show_icons=true&theme=midnight&hide_border=true" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
+</div>
+
+<br>
+
+<h2 align="center">📈 Contribution Graph</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lengwd&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,100:0015ff&height=100&section=footer" width="100%" alt="Footer" />
 </div>
