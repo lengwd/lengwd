@@ -18,7 +18,7 @@
 
 <br>
 
-<h2>👋 About Me</h2>
+<h2 align="center">👋 About Me</h2>
 
 <table width="100%" style="border: 1px solid #e1e4e8; border-radius: 6px;">
   <tr>
@@ -26,20 +26,6 @@
       <h3>🚀 My Goals for 2026</h3>
       <ul>
         <li>Loss weight</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 20px; border: 1px solid #e1e4e8;">
-      <h3>🎯 My Goals for 2025</h3>
-      <ul>
-        <li>Quant (especially in Polymarket & crypto)</li>
-        <li>Develop and open source a LLM application for writing fictions</li>
-        <li>Develop <a href="https://momentumctdp.netlify.app/">https://momentumctdp.netlify.app/</a></li>
-        <li><a href="#">Personal blog</a></li>
-        <li>Get prepared for my next stage of life</li>
-        <li>Read more papers and books in computational biology and math (complete <em>Introduction to Linear Algebra & Artin Algebra</em>)</li>
-        <li>平安喜乐</li>
       </ul>
     </td>
   </tr>
