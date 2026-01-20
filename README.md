@@ -18,7 +18,7 @@
 
 <tab width="100%">
     <tr>
-        <td>
+        <td align="left">
             <h3>🚀 My Goals for 2026</h3>
             <ol>
                 <li>Loss weight</li>
