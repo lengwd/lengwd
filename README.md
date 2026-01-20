@@ -18,7 +18,7 @@
 
 <br>
 
-<h2 align="center">👋 About Me</h2>
+<h2>👋 About Me</h2>
 
 <table width="100%" style="border: 1px solid #e1e4e8; border-radius: 6px;">
   <tr>
