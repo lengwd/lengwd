@@ -16,14 +16,14 @@
 
 <br />
 
-<table width="100%">
+<table width="500%">
     <tr>
         <td align="left">
             <h3>🚀 My Goals for 2026</h3>
-            <ol>
+            <ul>
                 <li>Loss weight</li>
-            </ol>
-        </td>
+            </ul>
+        </td>u
     </tr>
 </table>
 </div>
