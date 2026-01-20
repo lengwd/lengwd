@@ -62,16 +62,18 @@
 
 <br>
 
+
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lengwd&layout=compact&theme=midnight&hide_border=true" alt="Top Langs" />
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lengwd&layout=compact&theme=midnight&hide_border=true&langs_count=6" alt="Top Langs" />
       </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=lengwd&show_icons=true&theme=midnight&hide_border=true" alt="GitHub Stats" />
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=lengwd&show_icons=true&theme=midnight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
