@@ -30,15 +30,15 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="100%">
         <strong>Languages</strong><br><br>
         <img src="https://skillicons.dev/icons?i=py" alt="Languages">
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="100%">
         <strong>Frontend</strong><br><br>
         <img src="https://skillicons.dev/icons?i=react" alt="Frontend">
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="100%">
         <strong>Backend & Tools</strong><br><br>
         <img src="https://skillicons.dev/icons?i=docker,git" alt="Backend">
       </td>
