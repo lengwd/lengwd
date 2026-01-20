@@ -16,7 +16,7 @@
 
 <br />
 
-<tab width="100%">
+<table width="100%">
     <tr>
         <td align="left">
             <h3>🚀 My Goals for 2026</h3>
@@ -25,5 +25,5 @@
             </ol>
         </td>
     </tr>
-</tab>
+</table>
 </div>
