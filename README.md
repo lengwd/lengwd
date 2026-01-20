@@ -12,4 +12,6 @@
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=lengwd&style=for-the-badge&label=PROFILE+VIEWS&color=007ec6" alt="Profile Views" />
+
 </div>
