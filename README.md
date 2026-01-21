@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,100:0015ff&height=300&section=header&text=Wenda%20Leng&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20%7C%20Future%20Practitioner%20%7C%20On%20the%20way&descSize=25&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,100:0015ff&height=300&section=header&text=Wenda%20Leng&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20%7C%20Future%20Practitioner%20%7C%20On%20the%20Way&descSize=25&descAlignY=60&descAlign=50)
 
 <p>
   <a href="https://github.com/lengwd">
